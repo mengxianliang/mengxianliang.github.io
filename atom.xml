@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://mengxianliang.com/"/>
-  <updated>2017-03-12T13:17:40.000Z</updated>
+  <updated>2017-03-12T13:31:21.000Z</updated>
   <id>http://mengxianliang.com/</id>
   
   <author>
@@ -17,10 +17,10 @@
   
   <entry>
     <title>Hello My Blog ！</title>
-    <link href="http://mengxianliang.com/2017/03/09/hello-world/"/>
-    <id>http://mengxianliang.com/2017/03/09/hello-world/</id>
+    <link href="http://mengxianliang.com/2017/03/09/Hello%20My%20Blog%20%EF%BC%81/"/>
+    <id>http://mengxianliang.com/2017/03/09/Hello My Blog ！/</id>
     <published>2017-03-09T03:25:15.000Z</published>
-    <updated>2017-03-12T13:17:40.000Z</updated>
+    <updated>2017-03-12T13:31:21.000Z</updated>
     
     <content type="html"><![CDATA[<p>  之前一直在CSDN上写博客，时常有看到人家的个人博客，着实羡慕，所以就东施效颦弄了一个这样一个小站，今后会在这里继续边学习边整理的老套路，记录一下工作、学习中的点滴经验。</p>
 ]]></content>
